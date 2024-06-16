@@ -4,8 +4,8 @@ Without using setInterval, try to code a counter in Javascript. There is a hint 
 
 
 
-
-
+## Summary
+Undestood the SetTimeout Function and used Recursion as well.
 
 
 
